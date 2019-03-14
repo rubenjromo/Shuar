@@ -3,11 +3,16 @@ Vocabulario Shuar
 
 Aplicación Android que muestra algunas palabras de la lengua Shuar
 
+Colaboración
+-------
+Falta agregar palabras y categorías las cuales se añadiran en próximas actualizaciones y para ello se necesitan imágenes.
+Si deseas colaborar con el diseño o con las traducciones escríbeme a ruben.romo.gonzalez@gmail.com
+
 
 License
 -------
 
-Copyright 2016 The Android Open Source Project, Inc.
+Copyright 2019 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
